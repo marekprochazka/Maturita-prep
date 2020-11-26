@@ -1,1 +1,2 @@
-# Maturita-prep
+# Příprava na maturitu
+## Organizace úkolů a prací
