@@ -1,20 +1,20 @@
-
 # Proměnné:
+
 > https://www.itnetwork.cz/python/zaklady/python-tutorial-promenne-zakladni-datove-typy-a-funkce
 
 - V programování existjí 2 základní typy deklarování proměnných:
 - **Dynamický typový systém**
-    - Ve své hluboké podstatě proměnná nemá žádný typ (int, string,...)
-    - Proměnné se velmi často nemusí deklarovat a mohou svůj typ měnit v průběhu programu
+  - Ve své hluboké podstatě proměnná nemá žádný typ (int, string,...)
+  - Proměnné se velmi často nemusí deklarovat a mohou svůj typ měnit v průběhu programu
 - **Statický typový systém**
-    - proměnné jsou zde striktně definované a mají pevný datový tap, který se nemění. 
-    - Díky tomu běží program rychleji, protože může jen jednou vyhodnotit, že nějaká proměnná má nějaký datový typ a do konce s tím může počítat. 
+  - proměnné jsou zde striktně definované a mají pevný datový tap, který se nemění.
+  - Díky tomu běží program rychleji, protože může jen jednou vyhodnotit, že nějaká proměnná má nějaký datový typ a do konce s tím může počítat.
     U dynamického typového systému to tak nejde.
 - Proměnné v pythonu se řadí do dynamického typového systému
 - V kontextu proměnných stojí za zmínku rozdíl mezi kompilací a interpretací:
-    - **Kompilace**: celý kód se zároveň přeloží do strojového kódu, zkompilovaná verze se spouští => nutný statický typový systém, protože kompilátor si
-    nedokáže uhlídat, jestli se nějaké proměnné mění a jak. Potřebuje to mít pevně danné. 
-    - **Interpretace**: intepret postupně překládá a spoští program => možnost dynamického typového systému, protože interpreter si s tím poradí.
+  - **Kompilace**: celý kód se zároveň přeloží do strojového kódu, zkompilovaná verze se spouští => nutný statický typový systém, protože kompilátor si
+    nedokáže uhlídat, jestli se nějaké proměnné mění a jak. Potřebuje to mít pevně danné.
+  - **Interpretace**: intepret postupně překládá a spoští program => možnost dynamického typového systému, protože interpreter si s tím poradí.
 
 ### Dynamický typový systém (Python)
 
@@ -38,9 +38,10 @@ pismenko = "a";
 pismenko = 1; => NELZE 
 ```
 
----- 
+---
 
 # Datové typy
+
 - textové: str
 - numerické: int, float, complex
 - sekvenční: list, tuple, range
@@ -51,8 +52,9 @@ pismenko = 1; => NELZE
 
 ## Nejvýznamnější datové typy
 
-- celé číslo, integer, int -> celé číslo jehož velikost je limitována pouze pamětí počítače 
+- celé číslo, integer, int -> celé číslo jehož velikost je limitována pouze pamětí počítače
 - definje se jako obyčejné číslo
+
 ```python
 >>> x = 1
 >>> isinstance(x, int)
@@ -61,10 +63,12 @@ pismenko = 1; => NELZE
 >>> isinstance(y, int)
     False
 ```
-- desetinné číslo, float ->uchovává v paměti desetinné číslo, není však neomezeně přesné. 
-U desetinných čísel se nepíše čárka, ale tečka. Čísla začínající nulou se dají psát bez nuly. Např. 0.25 se dají psát jako .25.
+
+- desetinné číslo, float ->uchovává v paměti desetinné číslo, není však neomezeně přesné.
+  U desetinných čísel se nepíše čárka, ale tečka. Čísla začínající nulou se dají psát bez nuly. Např. 0.25 se dají psát jako .25.
 - definuje se jako int akorát s desetinnou tečkou
-```python 
+
+```python
 >>> x = 0.25
 >>> isinstance(x, float)
     True 
@@ -78,7 +82,9 @@ U desetinných čísel se nepíše čárka, ale tečka. Čísla začínající n
 >>> isinstance(zz, float)
     False
 ```
+
 - řetězec, string, str - sled znaků, definuje se pomocí jednoduchých nebo dvojtých uvozovek (",')
+
 ```python
 >>> retezec = "hrozne zajimavej text"
 >>> isinstance(retezec, str)
@@ -87,6 +93,7 @@ U desetinných čísel se nepíše čárka, ale tečka. Čísla začínající n
 >>> isinstance(neretezec, str)
     False
 ```
+
 - seznam, list - definuje se za pomocí hranatých závorek '[ ]' a prvky v něm se oddělují čárkou ','
 - můžeme je též tvořit za pomocí funkcí 'list()' a 'range()' jen pozor na funkci range, která vrací vlastní datový typ, který je třeba ještě prohnat funkcí list
 - list může obsahovat prakticky jákekoliv datové typy. Obshahuje li seznam více seznamů, tak hovoříme o více rozměrnémseznamu
@@ -94,6 +101,7 @@ U desetinných čísel se nepíše čárka, ale tečka. Čísla začínající n
 - list lze rozšířit a mazat z něj
 - rozšiřuje se pomocí metody append
 - mazat lze více způsoby
+
 ```python
 # práce s indexy
 >>> muj_seznam = [1,2,3,4,5]
@@ -130,7 +138,8 @@ U desetinných čísel se nepíše čárka, ale tečka. Čísla začínající n
 >>> del seznam[0] # alternativa podle indexu
     ["d"]
 ```
-- n-tice, tuple - vekmi podobný listu. Jediný rozdíl je, že se do něj nedá zapisovat ani z něj mazat => je rychlejší 
+
+- n-tice, tuple - vekmi podobný listu. Jediný rozdíl je, že se do něj nedá zapisovat ani z něj mazat => je rychlejší
 - definuje se klasickými závorkami '( )' a prvky v něm se oddělují čárkou ','
 
 ```python
@@ -138,11 +147,13 @@ U desetinných čísel se nepíše čárka, ale tečka. Čísla začínající n
 >>> ntice[0]
     1
 ```
+
 - slovník, dictionary, dict - hodnoty jsou seřazeny do párů: klíč ('key') a hodnota ('value')
 - slovníky definujeme složenými závorkami '{ }', párové hodnoty dělíme dvojtečkou ':' a páry mezi sebou čárkou ','
 - lze je též definovat funkcí 'dict()'
 - hodnoty získáváme pomocí klíče (slovník[klíč] : hodnota )
 - zadáme-li neexistující klíč, dostaneme key error
+
 ```python
 >>> clovek = {"jmeno":"Igor","vek":27,"sporty":["Fotbal","Házená","Kuličky"]}
 >>> clovek["jmeno"]
@@ -152,7 +163,9 @@ U desetinných čísel se nepíše čárka, ale tečka. Čísla začínající n
 >>> dict(("m",7), a=6)
     {"m":7,a:6}
 ```
+
 - bool - pravda/lež, ano/ne, 0/1
+
 ```python
 >>> pravda = True
 >>> nepravda = False
@@ -160,6 +173,7 @@ U desetinných čísel se nepíše čárka, ale tečka. Čísla začínající n
 
 - set - seznam, ve kterém se každá hodnota vyskytuje pouze jednou
 - definuje se složenými závorakami jako dict ale jen s jednou hodnotou, nebo pomocí funkce 'set()'
+
 ```python
 >>> my_set = {1,1,1,2,2,3}
 >>> my_set
@@ -181,7 +195,93 @@ U desetinných čísel se nepíše čárka, ale tečka. Čísla začínající n
 
 ```
 
-
-----
+---
 
 # Operace a operátory
+- operátory se využívají k provedení operací na proměnných, nebo hodnotách 
+- python dělí operátory do několika skupin:
+    - Aritmetické -> Arithmetic
+    - Porovnávací -> Comparison
+    - Logické -> Logical
+    - "Identitní" -> Identity
+    - "Členské" -> Membership
+    - Bitové -> Bitwise
+    - Řadící/přiřazovací -> Assignment
+
+
+## Aritmetické operátory
+```python
+# Sčítání - Addition
+x + y
+# Odčítání - Substraction
+x - y
+# Násobení - Multiplication
+x * y
+# Dělení - Division
+x / y
+# Modulo (zbytek z celočíselného dělení) - Modulus
+x % y
+# Umocnění - Expoonentiation
+x ** 2
+# Celočíselné dělení - Floor Division
+x // y
+```
+## Porovnávací operátory
+```python 
+# Rovnost - Equal
+x == y
+# Nerovnost - Not equal
+x != y
+# Větší něž - Greater than
+x > y
+# Menší než - Less than
+x < y
+# Větší nebo rovno - Greater than or equal to
+x >= y
+# Menší nebo rovno - Less than or equal to
+x <= y
+```
+
+
+## Logické operátory
+```python
+# and - Vrací True, pokud jsou obě tvrzení pravdivé 
+x < 5 and x < 10 
+# or - Vrací True, pokud je aspoň jedno tvrzení pravdivé
+x < 5 or x < 10
+# not - Obrací výsledek tvrzení (False na True a naopak)
+not(x < 5 and x < 10) 
+```
+
+## Identitní operátory
+```python
+# is - Vrací True pokud jsou obě proměnné/hodnoty stejné
+x is y
+# is not - Vrací True pokud obě proměnné/hodnoty nejsou stejné
+x is not y
+```
+## Členské operátory
+```python
+# in - Vrátí True, pokud se hodnota nachází v sekvenci
+x in y
+# not in - Vrátí True, pokud se hodnota nenachází v sekvenci
+x not in y
+```
+
+## Bitové operátory
+```python
+# & - AND - logické 'a'
+# | - OR - logické 'nebo'
+# ^ - XOR
+# ~ - NOT
+# << - Zero fill left shift
+# >> - 	Signed right shift
+```
+## Řadící/přiřazovací operátory
+```python
+x = 5
+x += 5 => x = x + 5
+x -= 3 => x = x - 3
+x *= 3 => x = x * 3 
+# Platí pro všechny ostatní operátory
+```
