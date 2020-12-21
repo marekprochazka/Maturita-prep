@@ -139,7 +139,7 @@ pismenko = 1; => NELZE
     ["d"]
 ```
 
-- n-tice, tuple - vekmi podobný listu. Jediný rozdíl je, že se do něj nedá zapisovat ani z něj mazat => je rychlejší
+- n-tice, tuple - velmi podobný listu. Jediný rozdíl je, že se do něj nedá zapisovat ani z něj mazat => je rychlejší
 - definuje se klasickými závorkami '( )' a prvky v něm se oddělují čárkou ','
 
 ```python
@@ -186,7 +186,7 @@ pismenko = 1; => NELZE
 
 ```python
 >>> cmplx = 1j
->>> type(x)
+>>> type(cmplx)
     <class 'complex'>
 >>> frzst = frozenset({1,2,3}) # frozenset => neupravitelný set
 >>> bts = b"Hello" # bytes => neměnitelná sekvence bytů (více info: http://howto.py.cz/cap07.htm#2 - kapitola 2)
@@ -198,18 +198,19 @@ pismenko = 1; => NELZE
 ---
 
 # Operace a operátory
-- operátory se využívají k provedení operací na proměnných, nebo hodnotách 
-- python dělí operátory do několika skupin:
-    - Aritmetické -> Arithmetic
-    - Porovnávací -> Comparison
-    - Logické -> Logical
-    - "Identitní" -> Identity
-    - "Členské" -> Membership
-    - Bitové -> Bitwise
-    - Řadící/přiřazovací -> Assignment
 
+- operátory se využívají k provedení operací na proměnných, nebo hodnotách
+- python dělí operátory do několika skupin:
+  - Aritmetické -> Arithmetic
+  - Porovnávací -> Comparison
+  - Logické -> Logical
+  - "Identitní" -> Identity
+  - "Členské" -> Membership
+  - Bitové -> Bitwise
+  - Řadící/přiřazovací -> Assignment
 
 ## Aritmetické operátory
+
 ```python
 # Sčítání - Addition
 x + y
@@ -226,8 +227,10 @@ x ** 2
 # Celočíselné dělení - Floor Division
 x // y
 ```
+
 ## Porovnávací operátory
-```python 
+
+```python
 # Rovnost - Equal
 x == y
 # Nerovnost - Not equal
@@ -242,8 +245,8 @@ x >= y
 x <= y
 ```
 
-
 ## Logické operátory
+
 ```python
 # and - Vrací True, pokud jsou obě tvrzení pravdivé 
 x < 5 and x < 10 
@@ -254,13 +257,16 @@ not(x < 5 and x < 10)
 ```
 
 ## Identitní operátory
+
 ```python
 # is - Vrací True pokud jsou obě proměnné/hodnoty stejné
 x is y
 # is not - Vrací True pokud obě proměnné/hodnoty nejsou stejné
 x is not y
 ```
+
 ## Členské operátory
+
 ```python
 # in - Vrátí True, pokud se hodnota nachází v sekvenci
 x in y
@@ -269,6 +275,7 @@ x not in y
 ```
 
 ## Bitové operátory
+
 ```python
 # & - AND - logické 'a'
 # | - OR - logické 'nebo'
@@ -277,7 +284,9 @@ x not in y
 # << - Zero fill left shift
 # >> - 	Signed right shift
 ```
+
 ## Řadící/přiřazovací operátory
+
 ```python
 x = 5
 x += 5 => x = x + 5
