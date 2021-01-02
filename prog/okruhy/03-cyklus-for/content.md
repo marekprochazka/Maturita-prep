@@ -11,7 +11,8 @@ for hodnota in seznam:
 ```
 
 spolupracující syntaxe:
-- break: vyskočí z cyklu  
+- break: vyskočí z cyklu
+- continue: přeskočí zbytek cyklu a začne další "kolo"  
 - range() : využívá se za syntaxí in (dosazuje do proměnné postupnou řadu čísel)
 
 ```python
@@ -21,4 +22,16 @@ for promenna in range(10):  # promenna bude dosahovat hodnot (0 až 9 v celých 
         break               # cyklus končí ve chvíli, kdy promenna dosáhne hodnoty 5
 ```
 
+else u cyklu for .. in: U tohto cyklu můžeme využít i syntaxe "else", jejíž blok se spustí po projetí cyklu. 
+Pokud cyklus skončí dřív za pomocí break, tak else neproběhne. 
+
+```python
+for x in range(3):
+    pass 
+else: 
+    print("konec cyklu")
+```
+
 * No a teď jsem u maturity asi v hajzlu protože fakt nevím co víc k tomu dodat
+
+ 
