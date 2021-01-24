@@ -6,7 +6,6 @@ class Main(tk.Tk):
         self.menu = tk.Menu(self)
 
         self.submenu_text = tk.Menu(self.menu, tearoff=0)
-        # self.submenu_text.add_command(label="Spirng", command=lambda text="Spring",*args: self.__lbl_text(text=text, *args))
         self.submenu_text.add_command(label="Spirng", command=lambda: self.__lbl_text(text="Spring"))
         self.submenu_text.add_command(label="Summer", command=lambda: self.__lbl_text(text="Summer"))
         self.submenu_text.add_command(label="Autumn", command=lambda: self.__lbl_text(text="Autumn"))
