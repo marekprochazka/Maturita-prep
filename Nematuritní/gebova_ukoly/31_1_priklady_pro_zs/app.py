@@ -55,7 +55,7 @@ def generuj_deleno(cislo1_label,cislo2_label,znameko_label,tlacitka):
 
 def kontroluj_fce(vstup_vysledek,skore_label,cislo1_label,cislo2_label,znameko_label, tlacitka):
     global aktualni_vysledek, spravne_odpovedi, spatne_odpovedi
-    if int(vstup_vysledek.get()) if vstup_vysledek.get() else None == aktualni_vysledek:
+    if (int(vstup_vysledek.get()) if vstup_vysledek.get() else None) == aktualni_vysledek:
         spravne_odpovedi += 1
     else: 
         spatne_odpovedi +=1
