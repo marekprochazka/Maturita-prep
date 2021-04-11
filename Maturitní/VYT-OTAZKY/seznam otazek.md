@@ -1,29 +1,29 @@
-1. HW - základní deska a její části
-2. HW - vnější paměti s optickým záznamem
-3. HW - vnější paměti s elektromagnetickým záznamem
-4. HW - periferie
+1. HW - [základní deska a její části](1HW.md)
+2. HW - [vnější paměti s optickým záznamem](2HW.md)
+3. HW - [vnější paměti s elektromagnetickým záznamem](3HW.md)
+4. HW - [periferie](4HW.md)
 ----
-5. Počítačová grafika - obecné pojmy
-6. Počítačová grafika - vektorový editor
-7. Počítačová grafika - rastrový editor
+5. Počítačová grafika - [obecné pojmy](5PGF.md)
+6. Počítačová grafika - [vektorový editor](6PGF.md)
+7. Počítačová grafika - [rastrový editor](7PGF.md)
 ----
-8. Programování - Proměnné, datové typy, operace 
-9. Programování - Větvení, výjimky 
-10. Programování - Cyklus for
-11. Programování - Cyklus while 
-12. Programování - Seznamy, n-tice, slovníky 
-13. Programování - Řetězce a práce s nimi 
-14. Programování - Funkce, moduly
-15. Programování - Tvorba grafů 
-16. Programování - Soubory 
-17. Programování - Tkinter, základní komponenty 
-18. Programování - Tkinter, výběrové komponenty 
-19. Programování - Tkinter, speciální komponenty
+8. Programování - [Proměnné, datové typy, operace](8PRG.md) 
+9. Programování - [Větvení, výjimky](9PRG.md) 
+10. Programování - [Cyklus for](10PRG.md) 
+11. Programování - [Cyklus while](11PRG.md)  
+12. Programování - [Seznamy, n-tice, slovníky](12PRG.md)  
+13. Programování - [Řetězce a práce s nimi](13PRG.md)  
+14. Programování - [Funkce, moduly](14PRG.md) 
+15. Programování - [Tvorba grafů](15PRG.md)  
+16. Programování - [Soubory](16PRG.md)  
+17. Programování - [Tkinter, základní komponenty](17PRG.md)  
+18. Programování - [Tkinter, výběrové komponenty](18PRG.md)  
+19. Programování - [Tkinter, speciální komponenty](19PRG.md) 
 ----
-20. WEB - Jazyk HTML
-21. WEB - Kaskádové styly
+20. WEB - [Jazyk HTML](20WEB.md)
+21. WEB - [Kaskádové styly](21WEB.md)
 ----
-22. CAD - metodika práce v CAD 
-23. CAD - práce ve 2D 
-24. CAD -.práce ve 3D
-25. CAD - vizualizace dat
+22. CAD - [metodika práce v CAD](22CAD.md) 
+23. CAD - [práce ve 2D](23CAD.md)
+24. CAD - [práce ve 3D](24CAD.md)
+25. CAD - [vizualizace dat](25CAD.md)
