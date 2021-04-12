@@ -26,6 +26,14 @@ počítačový program
 kolik miliard operací vykoná mikroprocesor za 1s. 
 - extra info: https://cs.wikipedia.org/wiki/Centr%C3%A1ln%C3%AD_procesorov%C3%A1_jednotka
 
+### Chlazení:
+- Teplovodivá pasta
+- Pasivní chlazení:
+    - kovová nepohyblivá součástka, která má na sobě navařená žebra pro zajištění co největší plochy z důvodu lepšího předávání tepla okolnímu vzduchu (vyrobeny buď z mědi(dražší) nebo z hliníku (levnější))
+- Aktivní chlazení:
+    - Proudícím vzduchem - rotující ventilátor vhání pomocí vhodně tvarovaných lopatek vzduch na pasivní část chladiče, která je v přímém kontaktu s chlazenou komponentou a odvádí od ní teplo (nejčastěji používáno jako doplněk pasivního chlazení)
+    - Vodní chlazení - tvoří uzavřený okruh ve kterém chladící médium, v tomto případě voda, obíhá; na jedné stran se přenáší teplo z chlazené komponenty do kapaliny a na druhé straně tuto kapalinu ochlazujeme; voda dokáže odvést více tepla než vzduch
+
 ### Typy konektorů:
 1. Napájecí konektor počítače - pro připojení napájecího kabelu, na jehož druhém konci je standardní zásuvka 
 2. VGA, DVI,... 
@@ -37,7 +45,7 @@ kolik miliard operací vykoná mikroprocesor za 1s.
 4. Paralelní port - původně pro připojení tiskáren, skenerů i některé externí mechaniky (dnes se již nepoužívá)
 5. Hudební konektory - standardní 3.5mm 'jacky' => vývody zvukové karty. Připojení reproduktorů, mikrofonů a 
 jiných hudebních zařízení 
-6. USB - je navržen pro připojení všech možných typů externích zařízení a  to dokonce za chodu počítače 
+6. USB - je navržen pro připojení všech možných typů externích zařízení a  to dokonce za chodu počítače
 7. SCSI - standardní rozhraní a sada příkazů pro výměnu dat mezi externími nebo interními počítačovými 
 zařízeními a počítačovou sběrnicí.
 8. RJ45 - dnes nejčastěji používaný typ zapojení síťových kabelů UTP a STP 
@@ -52,7 +60,7 @@ sběrnic. Sběrnice má za účel zajistit přenos dat a řídicích
 povelů mezi dvěma a více elektronickými zařízeními. Přenos
 dat na sběrnici se řídí stanoveným protokolem.
 - Mezi protokoly patří: 
-    - ISA - starší typ pasivní sběrnice, šířka 8 nebo 16 bitů
+    - ISA - starší typ pasivní sběrnice, šířka 8 nebo 16 bitů; systémová sběrnice pro připojení rozšiřujících karet do základní desky; používá paralelní přenos dat; přenos oběma směry; nabízí plug and play
     - PCI - novější typ 'inteligentní' sběrnice, šířka 32 nebo 64 bitů
 
 - extra info: https://cs.wikipedia.org/wiki/Sb%C4%9Brnice
@@ -78,8 +86,26 @@ je postupně nahrazován systémem UEFI.
 mohl pracovat. při vypnutí se informace vymažou. 
 - Velikost se udává v Gb
 
-### Paměti:
-- TODO eprom, eeprom, parametry, statické vs dynamické
+### Paměti ROM:
+- PROM:
+    - pomocí speciálního zařízení (programátor) si ji naprogramuje uživatel, poté nelze změnit
+- EPROM:
+    - informaci zapsanou v paměti je možné vymazat UV zářením a znovu přeprogramovat (uložení dat, která nejsou potřeba měnit, např. řízení mikrovlnky)
+- EEPROM:
+    - mazání probíhá pomocí elektrického impulsu, počet zápisů je omezen cca 100 000
+- Flash ROM
+    - elektricky programovatelná paměť; uchovává informace v paměťových buňkách; informace zachovává i po odpojení od elektrického napájení (SD karty)
+
+### Paměti RAM:
+- SRAM (statická RAM):
+    - velmi rychlá paměť a  vyžaduje menší proud než paměť dynamická
+- DRAM (dynamická RAM):
+    - je nutné ji periodicky obnovovat
+    - SIMM – už má kontakty a výhodou byla snadnější instalace oproti SIPP
+    - DIMM – všechny novější paměti (SDRAM, DDR, DDR2, DDR3) jsou umístěny na těchto modulech DIMM; šířka sběrnice je 64 bitů
+    - SO-DIMM – nejčastěji určeny pro notebooky
+- Cache – vyrovnávací paměť umístěna mezi dvě zařízení, která nepracují stejnou přenosovou rychlostí; několik druhů L1, L2, L3 od rychlejší po nejpomalejší
+
 
 ### Dělení pamětí dle provedení: 
 - RAM: 
