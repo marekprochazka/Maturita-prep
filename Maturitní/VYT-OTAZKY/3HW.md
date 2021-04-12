@@ -42,6 +42,38 @@
         - Cylindr – sada stop se stejným číslem na různých stranách ploten, musí se nadcházet nad sebou 
         - Cluster – nejmenší použitelné množství dat pohromadě
     - oproti SSD je levnější a může mít mnohem vyšší kapacitu (až 16 TB), ale je pomalejší při čtení /zápisu (100-200 MB/s) a také obsahuje mechanické pohybující se části – vyšší pravděpodobnost rozbití
-    - <img src="C:\Users\davsk\Desktop\VĚTISKO LŽE KOLIK MUSÍ MÍT VELKÝ TÝNEC ŽAKU PROC SE  TAK CHOVAME PROYŘ NEMUŽE ŽIT K  pravemu vzdy se  zit neda\Maturita\vytobrazky\diskhdd">
+
+- SSD:
+    - neobsahuje pohybující se části, takže je mechanicky mnohem odolnější, ale je oproti HDD dražší
+    - využívají flash paměť pro uložení dat – ta je organizována po blocích
+    - stejné rozhraní SATA jako HDD
+    - oproti HDD mají nižší spotřebu el. energie, vyšší rychlost čtení i zápisu a lehčí a menší (využití v ntb)
+
+- Disketa:
+    - data jsou podobně jako u HDD organizována do stop a sektorů (jejich seznam je uložen v alokační tabulce)
+    - v 21. století byly postupně vytlačeny novějšími technologiemi (Flash disky, HDD…)
+    - skládá se z plastového obalu a vnitřního nosiče s magnetickou vrstvou; uvnitř obalu je výstelka, která chrání magnetickou vrstvu proti poškrábání
+    - pro čtení se používala FDD mechanika
+
+### Rozhraní pro připojení pevných disků:
+- IDE:
+    - připojení diskových jednotek pomocí 40-žilového kabelu
+    - novější verze vyžadují 80-žilový kabel, kvůli rušení signálu elmag. polem
+- ATA (PATA):
+    - starší rozhraní
+    - Sada příkazů pro univerzální ovládání všech disků
+    - několik generací - ATA1 až ATA6
+- SATA:
+    - aktuálně používané rozhraní
+    - jednoduchý propojovací kabel, na rozdíl od paralelní komunikace nedochází k přeslechům
+    - komunikace probíhá sériově na vysoké frekvenci (až 6000 MHz)
+    - jedná se o kabel se sedmi vodiči (4 datové a 3 GND)
+    - obousměrný přenos
+    - eSATA (externí SATA):
+        - jedná se o SATA kabel s integrovaným napájením, využívá se u externích disků kde díky redukci na USB není potřeba další zdroj napájení
+
+
+
+
 
 
