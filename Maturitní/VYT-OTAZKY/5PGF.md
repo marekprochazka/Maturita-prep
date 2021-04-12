@@ -44,7 +44,7 @@ mám obraz co máx 1000 na výšku a 400 na šířku a 300 dpi, jakou má veliko
     - WMF – vektorový grafický formát, spolehlivý černobíle grafice a není vhodný pro barevnou grafiku, lze do něj umístit Bitmapy, což patří k jeho přednostem 
     - .ai, .cdr, .zmf – jsou koncovkami projektů, které lze tvořit v grafických programech; Adobe illustrator .ai; Corel .cdr; Zoner callisto .zmf; je nutné zkontrolovat správnost grafiky
 - CorelDRAW, Inkscape, Zoner Callisto, Adobe Illustrator
-# Barevné modely:
+### Barevné modely:
 - Aditivní model (sčítání):		Subtraktivní model (odčítání): 
  
 - RGB:
