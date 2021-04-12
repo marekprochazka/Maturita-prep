@@ -55,3 +55,4 @@
     - kapacita 25 GB u jednovrstvého disku, 50 GB u dvouvrstvého disku a až 100 GB u oboustranné dvouvrstvé varianty
 
 
+
