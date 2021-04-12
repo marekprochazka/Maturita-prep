@@ -10,7 +10,7 @@ mám obraz co máx 1000 na výšku a 400 na šířku a 300 dpi, jakou má veliko
 => vydělím šířku dpi a převedu palce na cm
 => to samo šířka
 
-# Rastrová grafika:
+### Rastrová grafika:
 - Bitmapový obrázek je tvoře pravidelnou mřížkou z bodů, přičemž každý bod má přiřazenou určitou barvu
 - každy bitmapový obrázek je tedy definován svou velikostí (šířkou a výškou), rozlišením (hustotou barevných bodů) a barevnou hloubkou (počet možných barev, kterých může každý bod nabývat
 - Bitmapový obrázek je soubor malých čtverečků zvaných pixely, které dohromady vytvářejí obrázek
@@ -27,7 +27,7 @@ mám obraz co máx 1000 na výšku a 400 na šířku a 300 dpi, jakou má veliko
     - BMP – nejstarší a nejjednodušší formát bitmapového obrázku; použitelnost na webu je poměrně špatná a tento formát se již v podstatě na stránkách nepoužívá; velmi velké výsledné soubory a mnohdy nepomůže ani zmíněná komprese
     - PCX, DCX – formát firmy Zsoft, ma. rozlišení 65536x65536 pixelů, ukládá se buď bez nebo s kompresí
 - Adobe Photoshop, Zoner Photo studio, Gimp, Adobe Lightroom
-# Vektorová grafika:
+### Vektorová grafika:
 - Obraz je reprezentován pomocí geometrických objektů – body, přímky, křivky, polygony
 - Práce s objekty, které jsou samostatné a matematicky definované
 - Základem vektorové grafiky je matematika – obrázek je tvořen z vektorů (křivek) – Bézierovy křivky
