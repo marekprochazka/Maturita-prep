@@ -42,6 +42,6 @@
         - Cylindr – sada stop se stejným číslem na různých stranách ploten, musí se nadcházet nad sebou 
         - Cluster – nejmenší použitelné množství dat pohromadě
     - oproti SSD je levnější a může mít mnohem vyšší kapacitu (až 16 TB), ale je pomalejší při čtení /zápisu (100-200 MB/s) a také obsahuje mechanické pohybující se části – vyšší pravděpodobnost rozbití
-    <img src="C:\Users\davsk\Desktop\VĚTISKO LŽE KOLIK MUSÍ MÍT VELKÝ TÝNEC ŽAKU PROC SE  TAK CHOVAME PROYŘ NEMUŽE ŽIT K  pravemu vzdy se  zit neda\Maturita\vytobrazky\diskhdd">
+    - <img src="C:\Users\davsk\Desktop\VĚTISKO LŽE KOLIK MUSÍ MÍT VELKÝ TÝNEC ŽAKU PROC SE  TAK CHOVAME PROYŘ NEMUŽE ŽIT K  pravemu vzdy se  zit neda\Maturita\vytobrazky\diskhdd">
 
 
