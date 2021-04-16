@@ -17,15 +17,6 @@ else:
     pass
 ```
 
-```python
-cislo = int(input("Zadejte číslo v rozmezí 10-20: "))
-if ((cislo >= 10) and (cislo <= 20)):
-    print("Zadal jsi správně")
-else:
-    print("Zadal jsi špatně")
-input()
-```
-
 Při vyhodnocování podmínek využíváme porovnávací operátory viz [1. lekce](../01-promenne-dat_typy-operace/content.md)
 
 Vysvětlení syntaxe výše: Pokud máme v podmínce pouze proměnnou beze porovnávacích operátorů, tak podmínku python chápe 
