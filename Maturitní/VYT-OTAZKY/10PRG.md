@@ -32,7 +32,18 @@ for x in range(3):
 else: 
     print("konec cyklu")
 ```
+#### Vnořené cykly
+- jedná se o for smyčku ve for smyčce
+- celá „vnitřní smyčka“ proběhne pro každý prvek „vnější smyčky“
 
+```python
+adj = ["red", "big", "tasty"]
+fruits = ["apple", "banana", "cherry"]
+
+for x in adj:
+  for y in fruits:
+    print(x, y) # vyždycky se napíše red apple, red babana, red cherry; big apple, big banana...
+```
 * No a teď jsem u maturity asi v hajzlu protože fakt nevím co víc k tomu dodat
 
  
