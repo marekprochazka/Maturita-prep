@@ -44,6 +44,6 @@ for x in adj:
   for y in fruits:
     print(x, y) # vyždycky se napíše red apple, red babana, red cherry; big apple, big banana...
 ```
-* No a teď jsem u maturity asi v hajzlu protože fakt nevím co víc k tomu dodat
+* No a teď jsem u maturity asi v hajzlu protože fakt nevím co víc k tomu dodat xdxd
 
  
