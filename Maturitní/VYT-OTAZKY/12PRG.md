@@ -81,7 +81,7 @@ True
 
 ```
 
-## řetězce
+## Seznamy
 - Seznam nám poskytuje způsob, jak ukládat větší množství hodnot přehledně a na jedno místo.
 - Má velice podobné vlastnosti jako N-tice, rozdíl je však v tom, že hodnoty uvnitř řetězce lze upravit.
 - Značí se jinými závorakmi jak n-tice '[]', funkce pro tvorbu se jmenuje list()
