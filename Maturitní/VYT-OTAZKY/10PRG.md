@@ -47,3 +47,8 @@ for x in adj:
 * No a teď jsem u maturity asi v hajzlu protože fakt nevím co víc k tomu dodat
 
  
+funkce Enumerate
+
+Iterátory
+
+Generátory
