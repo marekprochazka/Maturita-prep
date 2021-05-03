@@ -7,7 +7,7 @@ https://drive.google.com/drive/folders/1vpZ6V4aAxWIXaY3d9VPQgzZAxFpX3qel?usp=sha
 ## Kde co najdeš?
 Aktuální předměty (na žádost doplním):
 - VYT (github)
-- ANJ (primárně github)
+- ANJ (github)
 - CJL (Disk)
 - MAT (Disk)
 
@@ -21,4 +21,3 @@ Aktuální předměty (na žádost doplním):
 - Pokus se vybrat složku, která co nejvíce odpovídá tématu, které nahráváš
 - Pokud chceš, můžeš ještě ve složce vytvořit složku se svým jménem, do které to nahraješ
 
-:)
