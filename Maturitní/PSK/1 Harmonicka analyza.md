@@ -1,4 +1,4 @@
-# 1. Harmonická anlýza
+# 1. Harmonická anlýza :)
 
 * Harmonická analýza == sinus / cosinus
 
