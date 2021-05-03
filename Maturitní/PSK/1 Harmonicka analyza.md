@@ -14,7 +14,7 @@
 
 ## Spektrum
 
-![Spektrum](https://imgur.com/gNWNDcR)
+![Spektrum](https://i.imgur.com/gNWNDcR.png)
 
 ## Pojmy
 
