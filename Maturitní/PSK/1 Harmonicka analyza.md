@@ -14,8 +14,7 @@
 
 ## Spektrum
 
-![Spektrum](https://gyazo.com/e4a86cfeb74c694df0e11270308504e4)
-
+![Spektrum](https://imgur.com/gNWNDcR)
 
 ## Pojmy
 
