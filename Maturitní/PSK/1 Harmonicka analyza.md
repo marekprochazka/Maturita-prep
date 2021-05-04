@@ -1,8 +1,10 @@
-# 1. Harmonická anlýza :)
+# 1. Harmonická anlýza
 
 * Harmonická analýza == sinus / cosinus
 
 * Jakýkoli periodický signál libovolného tvaru lze rozložit na součet nekonečně mnoha harmonických signálů
+
+* **Amplitudové frekvenční spektrum** = Jak velká energie je obsažena na určité frekvenci
 
 ## Jak Zakreslujeme
 
@@ -15,6 +17,24 @@
 ## Spektrum
 
 ![Spektrum](https://i.imgur.com/gNWNDcR.png)
+
+
+## Harmonické složky
+
+**Nižší harmonické složky**
+
+* Čím více vyšších harmonických složek je zachováno, tím víc je graf přesnější.
+
+![Nizsi](https://i.imgur.com/xo9awAo.png)
+
+**Vyšší harmonické složky**
+
+* Vyznačují rychlé změny
+
+* Pokud ponecháme pouze vyšší harmonické složky původní tvar už nebude možné rozeznat, ale zůstanou nám rychlé změny -- v místě původní strmé hrany se objeví zákmit.
+
+![vyssi](https://i.imgur.com/guMidqQ.png)
+
 
 ## Pojmy
 
