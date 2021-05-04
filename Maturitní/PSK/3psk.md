@@ -9,7 +9,7 @@
 * Spočívá v odebrání vzorků ze signálu v určitých předem stanovených časových okamžicích.
 
 *pochází z anglického **Sample Vzorek**
-
+<br>
 ![vzorkov](https://mamut.spseol.cz/nozka/psk/025-vzorkovani/vzorky.png)
 **vzorkovací perioda T**
 
@@ -17,12 +17,13 @@
 
 * Ideálně by měla být co nejmenší
 
-* čím je vzorkovací impulz širší tím rychleji dochází ke strátě informace
+* čím je vzorkovací impulz širší tím rychleji dochází ke strátě informace<br>
 ![sapler](https://mamut.spseol.cz/nozka/psk/025-vzorkovani/vzorkyFS1.png)
 
 **Obnova původního signálu**
 
 * Obnovit můžeme pomocí dolní propusti vybrat jen část spektra, která odpovídá původnímu signálu. (**podle zeleně vyznačeného**)
+<br>
 ![obnova](https://mamut.spseol.cz/nozka/psk/025-vzorkovani/obnova.png)
 
 ## Aliasing
@@ -32,11 +33,11 @@ Aby nedošlo ke ztrátě dat musí být maximální frekvence vzorkovaného sign
 
 * Proto se v praxi vzorkovací frekvence volí dvakrát větší než je maximální požadovaná přenášená frekvence (plus ještě malá rezerva)
 
-**Aliasing vzniká nedodržením Vzorkovacího theoremu**
+**Aliasing vzniká nedodržením Vzorkovacího theoremu**<br>
 ![aliasnig](https://mamut.spseol.cz/nozka/psk/028-aliasing/aliasing.png)
 
 **Anti-aliasing**
-* Jde opět o dolní propust s mezním kmitočtem nastaveným pod polovinu vzorkovacího kmitočtu:
+* Jde opět o dolní propust s mezním kmitočtem nastaveným pod polovinu vzorkovacího kmitočtu:<br>
 ![antialiasnign](https://mamut.spseol.cz/nozka/psk/028-aliasing/antialiasing.png)
 
 * Anti aliasing v grafice
@@ -45,12 +46,12 @@ https://www.youtube.com/watch?v=hqi0114mwtY
 ## Kvantování
 * "**zaokrouhlování** *hodnot signálu*"
 * Většinou následuje v procesu digitalizace signálu hned za vzorkováním.
-
+<br>
 ![zaokrouhlovani](https://mamut.spseol.cz/nozka/psk/031-kvantovani/kvantovani.png)
 
 **Pulzně kodová modulace**
 * každé kvantovací hladině přidělíme číslo
-* místo času uvedeme pořadí
+* místo času uvedeme pořadí<br>
 ![digi](https://mamut.spseol.cz/nozka/psk/031-kvantovani/pcm.png)
 
 Poměr mezi počtem kvantovacích hladin a počtem bitů:
@@ -67,7 +68,7 @@ Poměr mezi počtem kvantovacích hladin a počtem bitů:
 * ke každé hladině přiřadí číslo ve dvojkové soustavě
 
 ## Číslicový signál
-x=[ 1, 2, 1.4, 3.1, 1.1, 2, 1, 0, -3.1, -2, -0.9, -2.8, -1.5 ]
+x=[ 1, 2, 1.4, 3.1, 1.1, 2, 1, 0, -3.1, -2, -0.9, -2.8, -1.5 ]<br>
 ![cisleciovysignalgraf](https://mamut.spseol.cz/nozka/psk/034-cislicove_zpracovani_signalu/xn.png)
 
 **Číslicový filtr**

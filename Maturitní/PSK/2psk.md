@@ -14,7 +14,7 @@
 
 * používá se při přenosu nebo záznamu elektrických nebo optických signálů např (**rozhlas, televize, mobil**)
 
-Modulátor:
+Modulátor:<br>
 ![modulace_img](https://mamut.spseol.cz/nozka/psk/018-amplitudova_modulace/modulator.png)
 
 **Modulovaný signál**
@@ -22,32 +22,32 @@ Modulátor:
 * Původní amplituda **3V** => **0,5V** do **4,5V**
 
 * čím větší % modulace tím více se mění amplituda
-
+<br>
 ![Modsignal](https://mamut.spseol.cz/nozka/psk/018-amplitudova_modulace/m_80.png)
 
 ## Modulace neharmonickým signálem
 
 Tvořen více harm. složkami, od **fmin** do **fmax**
-
+<br>
 ![modulace_img2](https://mamut.spseol.cz/nozka/psk/018-amplitudova_modulace/modulacni_neh.png)
 
-* **Neharmonický signál se přesune zrcadlově oproti původnímu**
+* **Neharmonický signál se přesune zrcadlově oproti původnímu**<br>
 ![zvrat](https://i.imgur.com/0n83LMB.png)
 
 **Šířka pásma**
 
 * udává jak velkou frekvenční oblast zaujme jedna stanice
-
+<br>
 ![noame](https://i.imgur.com/HGQABSA.png)
 
 ## Frekvenční modulace FM
 
 * Nosný signál má (mnohem) větší frekvenci, než signál modulační
-
+<br>
 ![frekv modulace](https://mamut.spseol.cz/nozka/psk/022-frekvencni_modulace/modulovany_15.png)
 
 ## Carsonův odhad
-* Praktická šířka pásma **CARSONŮV ODHAD** zbytek po krajích je zanedbatelný
+* Praktická šířka pásma **CARSONŮV ODHAD** zbytek po krajích je zanedbatelný<br>
 ![carson](https://mamut.spseol.cz/nozka/psk/022-frekvencni_modulace/carson.png)
 
 **Shrnutí**
@@ -61,5 +61,5 @@ Tvořen více harm. složkami, od **fmin** do **fmax**
 
 **FM**
 * používá se až ve vyšších frekvenčních pásmech
-
+<br>
 ![srovnaniamfm](https://mamut.spseol.cz/nozka/psk/022-frekvencni_modulace/AMFM.gif)
