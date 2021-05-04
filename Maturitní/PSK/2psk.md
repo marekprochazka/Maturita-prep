@@ -32,7 +32,7 @@ Tvořen více harm. složkami, od **fmin** do **fmax**
 ![modulace_img2](https://mamut.spseol.cz/nozka/psk/018-amplitudova_modulace/modulacni_neh.png)
 
 * **Neharmonický signál se přesune zrcadlově oproti původnímu**
-![zvrat](https://mamut.spseol.cz/nozka/psk/018-amplitudova_modulace/modulace_neh.png)
+![zvrat](https://i.imgur.com/0n83LMB.png)
 
 **Šířka pásma**
 
@@ -47,9 +47,19 @@ Tvořen více harm. složkami, od **fmin** do **fmax**
 ![frekv modulace](https://mamut.spseol.cz/nozka/psk/022-frekvencni_modulace/modulovany_15.png)
 
 ## Carsonův odhad
-* Praktická šířka pásma **CARSONŮV ODHAD** zbytek po krajích je zanedbatelný¨
+* Praktická šířka pásma **CARSONŮV ODHAD** zbytek po krajích je zanedbatelný
 ![carson](https://mamut.spseol.cz/nozka/psk/022-frekvencni_modulace/carson.png)
 
 **Shrnutí**
+* FM má lepší odolnost vůči rušení, ale zabírá větší délku pásma
+
+* Amplitudová modulace se dá použít i v nižších frekvenčních pásmech
+
+**AM**
+* Maximální modulační frekvence je omezena na fmax=4,5kHz,
+* šířka pásma je 9kHz
+
+**FM**
+* používá se až ve vyšších frekvenčních pásmech
 
 ![srovnaniamfm](https://mamut.spseol.cz/nozka/psk/022-frekvencni_modulace/AMFM.gif)
