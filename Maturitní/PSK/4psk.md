@@ -12,8 +12,6 @@
 
 **Využití**: telekomunikace, sítě, medicína i automobilový průmysl
 
-![Průběh sváru opt. vlákna (1:47)](https://www.youtube.com/watch?v=ptWI8ZBxB1s)
-
 * Rozdíly šíření světla v různém prostředí, vzniká **index lomu**
 
 ## Lom a odraz
@@ -29,6 +27,7 @@
 * **Mezní úhel** <br>
 ![loma](https://i.imgur.com/FLd8e1i.png)
 <br>
+
 ![opticks](https://i.imgur.com/yn5afDb.png)
 
 * Světlo ve vláknu zůstává díky úplnému odrazu

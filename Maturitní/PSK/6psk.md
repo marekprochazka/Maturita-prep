@@ -8,7 +8,7 @@
 * používají se vlnové délky => minimum měrného útlumu. tzv. **OKNA**, abychom se vyhli výkyvům
 * směrem doprava stoupá kvalita a cena
 
-**Vypočet útlumu**
+**Vypočet útlumu**<br>
 ![vyputlumu0](https://i.imgur.com/CbCAvu0.png)
 
 
@@ -36,3 +36,5 @@ Ztráty odchylkou os<br>
 ![prob](https://mamut.spseol.cz/nozka/psk/048-opticka-vlakna-IV/osy.png)<br>
 Ztráty úhlovou odchylkou os<br>
 ![prob](https://mamut.spseol.cz/nozka/psk/048-opticka-vlakna-IV/uosy.png)<br>
+
+https://www.youtube.com/watch?v=ptWI8ZBxB1s <<<<=
