@@ -4,6 +4,7 @@
 * **infračervené světlo**
 * **pásmo má 800 nm až 1600 nm**
 <br>
+
 ![basics](https://i.imgur.com/ZabyKD8.png)
 
 **Výhody**:
@@ -34,7 +35,3 @@
 
 * Světlo ve vláknu zůstává díky úplnému odrazu
 * Jádro má větší optickou hustotu
-
-
-
-

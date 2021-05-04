@@ -8,9 +8,9 @@
 * Laser, LED
 **Excitace** - elektron přejde z nižší hladiny na vyšší
 
-**Spontání emise**
+**Spontání emise**<br>
 ![spontra](https://mamut.spseol.cz/nozka/psk/052-opticke_zdroje_detektory/Spontaneousemission.png)
-**Stimulovaná emise**
+**Stimulovaná emise**<br>
 ![stimul](https://mamut.spseol.cz/nozka/psk/052-opticke_zdroje_detektory/Stimulatedemission.png)
 * cizím fotonem
 * vyvolaný foton má stejnou energii a směr jako foton stimulující.
