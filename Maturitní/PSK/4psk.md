@@ -3,6 +3,8 @@
 * **vlákno křemičitého skla (plastem)**
 * **infračervené světlo**
 * **pásmo má 800 nm až 1600 nm**
+<br>
+![basics](https://i.imgur.com/ZabyKD8.png)
 
 **Výhody**:
 * vysoké datové toky

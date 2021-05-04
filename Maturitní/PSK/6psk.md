@@ -37,4 +37,7 @@ Ztráty odchylkou os<br>
 Ztráty úhlovou odchylkou os<br>
 ![prob](https://mamut.spseol.cz/nozka/psk/048-opticka-vlakna-IV/uosy.png)<br>
 
+**Posváru se používá gel pro co nejmenší ztrátu světla**
+()nejlépe se stejnou hustotou)
+
 https://www.youtube.com/watch?v=ptWI8ZBxB1s <<<<=
