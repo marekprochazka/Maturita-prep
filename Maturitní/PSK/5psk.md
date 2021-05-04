@@ -1,14 +1,5 @@
 # Optická vlákna -- druhy, disperze
 
-* **vlákno křemičitého skla (plast)**
-* **infračervené světlo**
-
-**Výhody**:
-* vysoké datové toky
-* Nízký útlum (vhodné na velké vzdálenosti)
-* velká odolnost proti elektromagnetickému rušení
-* obtížné ukrást data
-
 ## Mnohavidová optická vlákna a vidová disperze
 ![vlaksno](https://mamut.spseol.cz/nozka/psk/041-opticka-vlakna-II/multimod_prurez.png)
 
@@ -19,7 +10,7 @@
 ### Vícevidové vlákno
 ![vidops](https://mamut.spseol.cz/nozka/psk/041-opticka-vlakna-II/stepindex.png)
 Problém = **vidová disperze**<br>
-![dispezyer](https://mamut.spseol.cz/nozka/psk/041-opticka-vlakna-II/disperze.png)
+![dispezyer](https://i.imgur.com/rWRSNdG.png)
 
 **ŘEŠENÍ**<br>
 ![RESNI](Ve středu jádra je sklo opticky nejhustší a směrem ke kraji s postupně index lomu snižuje)

@@ -1,6 +1,6 @@
 # Základy optiky (odraz, lom), šíření světla optickým vláknem
 
-* **vlákno křemičitého skla (plast)**
+* **vlákno křemičitého skla (plastem)**
 * **infračervené světlo**
 * **pásmo má 800 nm až 1600 nm**
 
@@ -19,7 +19,7 @@
 ## Lom a odraz
 * **úhel odrazu vždy rovná úhlu dopadu**
 * měří se ke kolmici k rozhraní prostředí<br>
-![uhe](https://mamut.spseol.cz/nozka/psk/038-opticka-vlakna-I/odraz_lom.png)
+![uhe](https://i.imgur.com/dyZlP5I.png)
 
 **Při lomu**
 * se světlo láme **ke kolmici** jestliže prochází z prostředí opticky **řidšího do hustšího**
@@ -27,13 +27,12 @@
 
 ## Totální odraz
 * **Mezní úhel** <br>
-![loma](https://mamut.spseol.cz/nozka/psk/038-opticka-vlakna-I/totalodraz.png)
+![loma](https://i.imgur.com/FLd8e1i.png)
 <br>
-![opticks](https://mamut.spseol.cz/nozka/psk/038-opticka-vlakna-I/vlakno.png)
+![opticks](https://i.imgur.com/yn5afDb.png)
 
 * Světlo ve vláknu zůstává díky úplnému odrazu
 * Jádro má větší optickou hustotu
-
 
 
 
