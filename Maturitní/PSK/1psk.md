@@ -4,7 +4,6 @@
 
 * Jakýkoli periodický signál libovolného tvaru lze rozložit na součet nekonečně mnoha harmonických signálů
 
-* **Amplitudové frekvenční spektrum** = Jak velká energie je obsažena na určité frekvenci
 
 ## Jak Zakreslujeme
 
@@ -15,6 +14,8 @@
 * Vertikální osa = amplitůdová osa<br>
 
 ## Spektrum
+
+* **Amplitudové frekvenční spektrum** = Jak velká energie je obsažena na určité frekvenci
 
 ![Spektrum](https://i.imgur.com/gNWNDcR.png)
 
