@@ -12,11 +12,11 @@
 ![vyputlumu0](https://i.imgur.com/CbCAvu0.png)
 
 
-**I okno** *mnohavidové,levný zdroj záření, optické přístupové sítí*
-**II okno** *jednovidový, dálkové přenosy, laser*
-**III okno**
-**IV okno** 
-**V okno** *dostupné až od konce 90, o šířka pásma až 50 THz*
+**I. okno** *mnohavidové,levný zdroj záření, optické přístupové sítí*<br>
+**II. okno** *jednovidový, dálkové přenosy, laser*<br>
+**III. okno**<br>
+**IV. okno** <br>
+**V. okno** *dostupné až od konce 1990, o šířka pásma až 50 THz*<br>
 
 ## Hladina výkonu
 * uvádí se v decibelech

@@ -13,7 +13,7 @@ Problém = **vidová disperze**<br>
 ![dispezyer](https://i.imgur.com/rWRSNdG.png)
 
 **ŘEŠENÍ**<br>
-![RESNI](Ve středu jádra je sklo opticky nejhustší a směrem ke kraji s postupně index lomu snižuje)
+
 * Ve středu jádra je sklo opticky nejhustší a směrem ke kraji s postupně index lomu snižuje.<br>
 ![resenni](https://mamut.spseol.cz/nozka/psk/041-opticka-vlakna-II/gradient.png)
 

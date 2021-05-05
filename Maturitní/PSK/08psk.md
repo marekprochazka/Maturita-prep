@@ -1,12 +1,12 @@
 # Metalické vedení
 
-* šíří se v něm elektromagnetické vlny
-**Výhoda:** Dokáže přenášet energii
+* šíří se v něm elektromagnetické vlny<br>
+**Výhoda:** Dokáže přenášet energii<br>
 * každá vlna má svou **vln. délku**, která je dána **frekvencí** a **rychlostí šíření vlny**
 
-**λ=v/f** *(Hz)*
-**λ -  vlnová délka**
-**v - rychlost**
+**λ=v/f** *(Hz)*<br>
+**λ -  vlnová délka**<br>
+**v - rychlost**<br>
 **f - frekvence**
 
 ## Primární parametry vedení
@@ -16,10 +16,10 @@
 ![vededni](https://mamut.spseol.cz/nozka/psk/056-vedeni_parametry/primarni2.png)<br>
 * Cele vedení je potom složeno z těchto elementárních úseků, které jsou zapojeny za sebou
 
-**Co můžeme změřit**
-**R[Ω]**	**odpor** vodičů vedení na jednotku délky
-**L[H]**	**indukčnost** vodičů vedení na jednotku délky
-**G[S]**	**vodivost** mezi oběma vodiči na jednotku délky
+**Co můžeme změřit**<br>
+**R[Ω]**	**odpor** vodičů vedení na jednotku délky<br>
+**L[H]**	**indukčnost** vodičů vedení na jednotku délky<br>
+**G[S]**	**vodivost** mezi oběma vodiči na jednotku délky<br>
 **C[F]**	**kapacita** mezi oběma vodiči na jednotku délky
 
 ## Sekundární parametry vedení

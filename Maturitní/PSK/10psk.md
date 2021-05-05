@@ -24,7 +24,7 @@
 
 Rychlost šíření vln ovlivňuje prostředí
 
-##  Huygensov princip
+##  Huygensův princip
 
 1. Každý bod se stává dalším elementárním zdrojem vlnění
 2. **Vlnění se skládá a navzájem ruší** ve všech směrech kromě směru šíření

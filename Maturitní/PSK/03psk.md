@@ -10,7 +10,7 @@
 
 *pochází z anglického **Sample Vzorek**
 <br>
-![vzorkov](https://mamut.spseol.cz/nozka/psk/025-vzorkovani/vzorky.png)
+![vzorkov](https://mamut.spseol.cz/nozka/psk/025-vzorkovani/vzorky.png)<br>
 **vzorkovací perioda T**
 
 **Šířka vzorkovacího impulzu**
@@ -24,6 +24,7 @@
 
 * Obnovit můžeme pomocí dolní propusti vybrat jen část spektra, která odpovídá původnímu signálu. (**podle zeleně vyznačeného**)
 <br>
+
 ![obnova](https://mamut.spseol.cz/nozka/psk/025-vzorkovani/obnova.png)
 
 ## Aliasing
@@ -47,6 +48,7 @@ https://www.youtube.com/watch?v=hqi0114mwtY
 * "**zaokrouhlování** *hodnot signálu*"
 * Většinou následuje v procesu digitalizace signálu hned za vzorkováním.
 <br>
+
 ![zaokrouhlovani](https://mamut.spseol.cz/nozka/psk/031-kvantovani/kvantovani.png)
 
 **Pulzně kodová modulace**

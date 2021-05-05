@@ -9,7 +9,7 @@
 **Excitace** - elektron přejde z nižší hladiny na vyšší
 
 **Spontání emise**<br>
-![spontra](https://mamut.spseol.cz/nozka/psk/052-opticke_zdroje_detektory/Spontaneousemission.png)
+![spontra](https://mamut.spseol.cz/nozka/psk/052-opticke_zdroje_detektory/Spontaneousemission.png)<br>
 **Stimulovaná emise**<br>
 ![stimul](https://mamut.spseol.cz/nozka/psk/052-opticke_zdroje_detektory/Stimulatedemission.png)
 * cizím fotonem
