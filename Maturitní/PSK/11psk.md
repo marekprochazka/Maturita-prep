@@ -21,24 +21,25 @@
 * např.: **Morseova abeceda**
 * nejpoužívanější písmena obsahují nejméně dat
 
-.	E   	. . . .	H<br>
--	T	- . . -	X<br>
-. .	I	- -. .	Z<br>
-. -	A	- . - -	Y
-
 ## Huffmanovo kódování
 * každé písmeno má svou frekvenci
 * Nejpoužívanější obsahují nejméně informací
 
 https://www.youtube.com/watch?v=dM6us854Jk0
 
-**Bez huffmanova algoritmu** - 176 bitů<br>
-
-![hufgf](https://i.imgur.com/4eaRSMW.png)
-
-**Huffmanův algoritmus** - 146 bitů<br>
-
-![shughf](https://i.gyazo.com/f9c48a88730851249ca5ea45a284798a.png)
+**0 ukončí charakter**
 
 ![hsad](https://i.gyazo.com/10e6950c100adc1c05949820522c654a.png)
 
+# Ztrátová komprese
+
+**Kompresní poměr** - jak moc smaže komprese dat oproti původu
+
+* odstraní méně dúležité data (na obloze odstraní některé odstíny modré)
+* nakonec se použijí i bezztrátové komprese
+
+* **Využívá nedokonalosti lidského zraku/sluchu**
+
+## Běžně používané kompresní formáty počítačových souborů
+
+![KOMPRES](https://i.gyazo.com/49086015f91e51d85a1de45466692e3a.png)
