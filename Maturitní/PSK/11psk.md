@@ -31,13 +31,13 @@
 * samoopravitelné kódy
 )
 
-Řešení<br>
+Řešení:<br>
 **Paritní kód**
 * doplní jeden bit na konec bytu tak aby počet jedniček byl sudý
 
-10011011  1
-00110111  1
-01101001  0
+10011011  1<br>
+00110111  1<br>
+01101001  0<br>
 00011000  0
 
 * selže jen pokud vzniknou 2 chyby zároveň
@@ -98,7 +98,7 @@ AMI<br>
 Kodovani Manchester<br>
 
 ![asd](https://mamut.spseol.cz/nozka/psk/130-multiplexovani/manchester_encoding.png)
-* rostoucí 1, klesající 0a
+* rostoucí 1, klesající 0
 
 # Bezztrátová komprese
 
