@@ -191,7 +191,7 @@ pismenko = 1; => NELZE
 ```python
 >>> cmplx = 1j
 >>> type(cmplx)
-    <class 'complex'>
+    <class complex>
 >>> frzst = frozenset({1,2,3}) # frozenset => neupravitelný set
 >>> bts = b"Hello" # bytes => neměnitelná sekvence bytů (více info: http://howto.py.cz/cap07.htm#2 - kapitola 2)
 >>> btarray = bytearray(5) => měnitelná verze bytes
