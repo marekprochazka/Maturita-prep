@@ -8,6 +8,7 @@
 **-nevýhody**
 * odposlouchavatelné
 * mohou být přerušené
+* větší chybovost než optické vlákno
 
 **anténa**<br>
 ![antena](https://mamut.spseol.cz/nozka/psk/068-sireni_vln/Dipolentstehung.gif)
