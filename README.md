@@ -1,6 +1,6 @@
 # Příprava na maturitu
 
-## [Rozcestník pro VYT](Maturitní/VYT-OTAZKY/seznam_temat.md)
+## [Rozcestník pro VYT](Maturitní/VYT-OTAZKY/seznam_otazek.md)
 
 ## [Rozcestník pro ANJ](Maturitní/ANJ/seznam_temat.md)
 
