@@ -1,5 +1,6 @@
 # Základy optiky (odraz, lom), šíření světla optickým vláknem
 
+* **Menší chybovost než elektromagneticke přenosy**
 * **vlákno křemičitého skla (plastem)**
 * **infračervené světlo**
 * **pásmo má 800 nm až 1600 nm**

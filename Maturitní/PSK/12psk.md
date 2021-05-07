@@ -1,5 +1,12 @@
 # Běžně používané souborové formáty (kodeky, kontejnery)
 
+**Bezztrátové**
+* Odstraňuje pouze nadbytečné informace = **REDUNDANCE**
+* Redundance = znaky které se opakují
+
+**Ztrátové**
+* snaží se co nejméně ublížit souboru a co nejvíce zmenšit velikost
+
 ## Soubory
 
 1. **ZIP**
