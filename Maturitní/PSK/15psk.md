@@ -34,6 +34,7 @@ oznamuje dobu po kterou si server uchovává info o serveru v cache<br>
 
 ![dnssd](https://mamut.spseol.cz/nozka/psk/148-dns/jak_dns.gif)
 
+- webovka Uložena na více serverech
 
 ## WHOIS
 
