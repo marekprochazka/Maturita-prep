@@ -1,16 +1,16 @@
 # 5. Počítačová grafika - obecné pojmy
 
 
-WIP 
 
-Základní rozlišení (výška X šířka), Dpi -> jak se to počítá? 
-dpi -> body na palec
-mám obraz co máx 1000 na výšku a 400 na šířku a 300 dpi, jakou má velikost v cm
-1 palec je 2,4 cm
+## Z povídání Pata a Mata:
+- Základní rozlišení (výška X šířka), Dpi -> jak se to počítá? 
+- dpi -> body na palec
+- mám obraz co má 1000 na výšku a 400 na šířku a 300 dpi, jakou má velikost v cm
+- 1 palec je 2,4 cm
 => vydělím šířku dpi a převedu palce na cm
 => to samo šířka
 
-### Rastrová grafika:
+## Rastrová grafika:
 - Bitmapový obrázek je tvoře pravidelnou mřížkou z bodů, přičemž každý bod má přiřazenou určitou barvu
 - každy bitmapový obrázek je tedy definován svou velikostí (šířkou a výškou), rozlišením (hustotou barevných bodů) a barevnou hloubkou (počet možných barev, kterých může každý bod nabývat
 - Bitmapový obrázek je soubor malých čtverečků zvaných pixely, které dohromady vytvářejí obrázek
@@ -27,7 +27,7 @@ mám obraz co máx 1000 na výšku a 400 na šířku a 300 dpi, jakou má veliko
     - BMP – nejstarší a nejjednodušší formát bitmapového obrázku; použitelnost na webu je poměrně špatná a tento formát se již v podstatě na stránkách nepoužívá; velmi velké výsledné soubory a mnohdy nepomůže ani zmíněná komprese
     - PCX, DCX – formát firmy Zsoft, ma. rozlišení 65536x65536 pixelů, ukládá se buď bez nebo s kompresí
 - Adobe Photoshop, Zoner Photo studio, Gimp, Adobe Lightroom
-### Vektorová grafika:
+## Vektorová grafika:
 - Obraz je reprezentován pomocí geometrických objektů – body, přímky, křivky, polygony
 - Práce s objekty, které jsou samostatné a matematicky definované
 - Základem vektorové grafiky je matematika – obrázek je tvořen z vektorů (křivek) – Bézierovy křivky
@@ -44,9 +44,16 @@ mám obraz co máx 1000 na výšku a 400 na šířku a 300 dpi, jakou má veliko
     - WMF – vektorový grafický formát, spolehlivý černobíle grafice a není vhodný pro barevnou grafiku, lze do něj umístit Bitmapy, což patří k jeho přednostem 
     - .ai, .cdr, .zmf – jsou koncovkami projektů, které lze tvořit v grafických programech; Adobe illustrator .ai; Corel .cdr; Zoner callisto .zmf; je nutné zkontrolovat správnost grafiky
 - CorelDRAW, Inkscape, Zoner Callisto, Adobe Illustrator
-### Barevné modely:
+## Barevné modely:
+
+<img src="images/5GRF1.png" style="display: block; margin-right:auto; margin-left:3%;  width: 20%; height: auto;">
+
+
 - Aditivní model (sčítání):		Subtraktivní model (odčítání): 
- 
+
+<img src="images/5GRF2.png" style="display: block; margin-right:auto; margin-left:3%;  width: 20%; height: auto;">
+
+
 - RGB:
     - aditivní model (sčítání)
     - monitor používá 3 základní složky – R (červená), G (zelená), B (modrá)
@@ -60,6 +67,10 @@ mám obraz co máx 1000 na výšku a 400 na šířku a 300 dpi, jakou má veliko
     - používá se při tisku, v praxi se přidává ještě černá barva (K v názvu modelu)
     - funguje velmi podobně jako RGB model, akorát převráceně
     - základní barvy jsou azurová (kyan), purpurová (magenta), žlutá (yellow); černá (blacK)
+
+<img src="images/5GRF3.png" style="display: block; margin-right:auto; margin-left:3%;  width: 20%; height: auto;">
+
+
 - HSV (HSB):
     - RGB je model vhodný pro míchání barev, HSV model více odráží vnímání barev člověkem
     - Hue, Saturation, Value; Hue Saturation, Brightness
@@ -70,6 +81,10 @@ mám obraz co máx 1000 na výšku a 400 na šířku a 300 dpi, jakou má veliko
     - směrem k vrcholu klesá jas barev
     - směrem ke středu podstavy klesá nasycení barev
     - barvy jednoho barevného odstínu najdeme v trojúhelníku, jehož vrcholy jsou střed podstavy, vrchol a bod na obvodu podstavy
+
+<img src="images/5GRF4.png" style="display: block; margin-right:auto; margin-left:3%;  width: 20%; height: auto;">
+
+
 - HSL:
     - Hue, Saturation, Lightness
     - Hue – barevný tón, neboli odstín, popisuje čistou, nasycenou barvu

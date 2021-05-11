@@ -6,6 +6,11 @@
 
 > https://www.itnetwork.cz/python/zaklady/python-tutorial-promenne-zakladni-datove-typy-a-funkce
 
+
+- Proměnná je nějaká dočasná entita, kterou můžeme v proběhu programu měnit a pracovat s ní, není statická; v paměti PC vydrží do ukončení programu
+- V názvu proměnné se mohou používat je znaky ENG abecedy, podtržítka, pomlčky a číslice (ale název proměnné nesmí číslem začínat)
+- Velikost proměnné je omezena pouze velikostí paměti PC, neexistuje pevně daný limit velikosti
+
 - V programování existjí 2 základní typy deklarování proměnných:
 - **Dynamický typový systém**
   - Ve své hluboké podstatě proměnná nemá žádný typ (int, string,...)
@@ -199,7 +204,30 @@ pismenko = 1; => NELZE
 
 ```
 
+## Převodní funkce 
+- datové typy se dají převádět splňuje proměnná konkrétního datového typu podmínku datového typu nového. Využívají se následující funkce: 
+    - __int()__ – převede na celé číslo, když nemá co převést vyhodí error
+    - __float()__ – převede na desetinné číslo
+    - __str()__ – převede na string (řetězec)
+    - __ord()__ – převede znak na ASCII hodnotu
+    - __chr()__ – převede ASCII hodnotu na znak
+
+## Vstup a výstup
+
+- __input()__ – příkaz pro vstup, program čeká na vstup od uživatele, vrací string
+- __print()__ – vypíše řetězec, číslo, return funkce... co konzole, každý print je jeden řádek, pomocí end tomu lze zamezit, že se nastaví místo konce řádku jiný znak
+
 ---
+
+# Import, použití knihoven:
+
+-příkaz import má 3 podoby
+    - import random – základní, v tomto případě se na knihovnu odkazujeme random.randint()
+    - from random import randint, from random import * - buď můžeme importovat pouze část knihovny, nebo celou, v obou případech se odkazujeme pouze randint(), v tom případě u * je problém, pokud by ve dvou a více importovaných knihovnách byla stejná funkce, bude způsobovat kolize, použije se ta funkce z knihovny, která se importovala později
+    - import random as rn – v tomto případě se na knihovnu random odkazujeme rn.randint()
+- __Knihovna math__ – math má spoustu funkcionalit, obsahuje prakticky všechny matematické operace
+    - __goniometrické funkce – úhel se jim zadává v radiánech a musí se převádět (to se určitě zeptá)__
+
 
 # Operace a operátory
 
