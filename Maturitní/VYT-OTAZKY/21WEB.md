@@ -82,7 +82,7 @@
 - Border (ohraničení) – nastavuje se mu styl čáry (čárkované, plné...), tloušťka a barva
 - border-radius – nastavuje zaoblení ohraničení, udává se v %
 
-<img src="images/21WEB.png" style="display: block; margin-right:auto; margin-left:3%;  width: 20%; height: auto;">
+<img src="images/21WEB.png" style="display: block; margin-right:auto; margin-left:auto; margin-bottom:50px ;width: 60%; height: auto;">
 
 ## Nějaký ty základní styly, ale Stejsky se na to asi ptát nebude (spíš taková záchrana):
 
