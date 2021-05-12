@@ -18,7 +18,7 @@
 12. Programování - [Seznamy, n-tice, slovníky](12PRG.md) ✅  
 13. Programování - [Řetězce a práce s nimi](13PRG.md)  ✅
 14. Programování - [Funkce, moduly](14PRG.md) ✅
-15. Programování - [Tvorba grafů](15PRG.md)  ❌
+15. Programování - [Tvorba grafů](15PRG.md)  ✅
 16. Programování - [Soubory](16PRG.md)  ❌
 17. Programování - [Tkinter, základní komponenty](17PRG.md) ❌  
 18. Programování - [Tkinter, výběrové komponenty](18PRG.md)  ❌
