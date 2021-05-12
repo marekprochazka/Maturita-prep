@@ -19,7 +19,7 @@
             - identifikátor – jednorázové použití
             - pro použití v HTML: 
             
-            ```html:5
+            ```html
             <p class=“trida“>Toto je formátováno třídou</p>
             <p id=“identita“>Toto je formátováno identifikátorem</p>
             ```
@@ -33,19 +33,19 @@
 - Přímý styl – přímo k HTML prvku
     - moc se nepoužívá, protože popírá hlavní výhodu CSS
     
-    ```html:5
+    ```html
     <p style="color: blue;">Modrý text</p>
     ```
     
     - V hlavičce souboru – častější využití než přímý zápis, ale nepraktický při práci s více soubory
     
-    ```html:5
+    ```html
     <style type=“text/css“> p {color: blue} </style>
     ```
     
     - Do samostatného souboru – nejpoužívanější způsob, má příponu CSS, je potřeba jej linknout do HTML souboru
     
-    ```html:5
+    ```html
     <link rel="stylesheet" href="https://435c0b58-5756-4a01-a592-0f96891232c6.vscode-webview-test.com/vscode-resource/file///c%3A/Users/mproc/.vscode/extensions/cweijan.vscode-office-1.9.1/resource/styls.css">
     ```
     
