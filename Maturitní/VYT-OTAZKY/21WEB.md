@@ -64,12 +64,12 @@
     - em, ex – odvozuje se od velikosti šířky písmene m nebo x, vztahuje se k danému fontu a velikosti písma
 
 
-## Tagy '__div__' a '__span__':
+## Tagy ```<div>``` a ```<span>```:
 
 - vznikly až se zavedením CSS, protože bylo potřeba mít nějaké prvky, které „nic neznamenají“ a pouze rozdělují HTML do bloků, ke kterým lze přistupovat samostatně
 - pomáhají vytvářet „nadřazenou“ strukturu HTML tagů
-- '__div__' - blokový tag, používá se pro „obalení“ několika blokových prvků, např. odstavců, obrázků...
-- '__span__' - řádkový tag, funguje prakticky stejně jako '__div__'
+- ```<div>``` - blokový tag, používá se pro „obalení“ několika blokových prvků, např. odstavců, obrázků...
+- ```<span>``` - řádkový tag, funguje prakticky stejně jako ```<div>```
 
 
 ## Schéma bloku (boxu):
@@ -99,7 +99,7 @@
 
 - vše co se týká písma začíná prefixem font – tím se dá také zapsat vše níže zmíněné, je ale potřeba dodržet přesné pořadí, jak je uvedeno odshora dolů
 - font-style – normal/italic = nastavuje kurzívu
-- font-weight – nahrazuje '__strong__' nebo '__b__'; tučné písmo
+- font-weight – nahrazuje ```<strong>``` nebo ```<b>```; tučné písmo
 - font-size – velikost písma, uvádí se v pixelech (px), textových bodech (pt), nebo v %
 - font-family – typ písma (Arial, Verdana, Calibri…)
 

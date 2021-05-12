@@ -1,6 +1,5 @@
 20. Jazyk HTML
 
-> pozn.: v následujících 2 kapitolách jsou tučně zvýrazněné tagy v jednoduchých uvozovkách alternativou pro klasické tagy v ostrých závorkách z důvodu chování md souborů
 
 - Hypertextový značkovací jazyk (Hypertext Markup Language) je v dnešní době nejoblíbenější jazyk pro vytváření jednoduchých stránek, skládá se ze značek, tagů, příkazů..., pomocí toho určujeme jakým způsobem se text na stránce zobrazí
 - Značkovací jazyk rozumíme, že pomocí něho označkujeme části textu, hodnoty
