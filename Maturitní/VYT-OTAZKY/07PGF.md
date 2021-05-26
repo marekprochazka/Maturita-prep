@@ -69,6 +69,7 @@
     vyjadřuje fakt, že je Photoshop integrován se skupinou dalších grafických programů firmy Adobe (Adobe's Creative Suite), kam patří mimo 
     jiné Adobe Illustrator či Adobe InDesign. Označení Creative Cloud, použité u verzí 14 až 20, vyjadřovalo, že je Photoshop daleko více integrován cloudově.
     - V anglickém jazyce se stále běžněji vyskytuje slovo photoshop a photoshopping ve významu digitálně upravovat (zejména retušovat) obrázky a fotografie v digitální formě (ať už v Adobe Photoshop nebo jiném programu). Přispívá k tomu fakt, že Adobe Photoshop je pro úpravu obrázků a fotografií jeden z nejznámějších programů a de facto profesionální standard. Nicméně, firma Adobe vystupuje proti takovéto konotaci.
+    - Síla photoshopu je v tom, že si uživatel může projekt rozdělit do množství nezávyslích vrstev
 - GIMP 
     - Program patří mezi hlavní konkurenty Photoshopu. 
     - Je open-source: 
