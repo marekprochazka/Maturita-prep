@@ -1,4 +1,4 @@
-20. Jazyk HTML
+# 20. Jazyk HTML
 
 
 - Hypertextový značkovací jazyk (Hypertext Markup Language) je v dnešní době nejoblíbenější jazyk pro vytváření jednoduchých stránek, skládá se ze značek, tagů, příkazů..., pomocí toho určujeme jakým způsobem se text na stránce zobrazí
