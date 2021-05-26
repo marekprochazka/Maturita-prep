@@ -6,8 +6,8 @@
 ----
 
 5. Počítačová grafika - [obecné pojmy](05PGF.md) ✅
-6. Počítačová grafika - [vektorový editor](06PGF.md) ❌
-7. Počítačová grafika - [rastrový editor](07PGF.md) ❌
+6. Počítačová grafika - [vektorový editor](06PGF.md) ✅
+7. Počítačová grafika - [rastrový editor](07PGF.md) ✅
 
 ----
 
