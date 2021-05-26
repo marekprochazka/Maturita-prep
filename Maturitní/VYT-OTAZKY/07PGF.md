@@ -18,7 +18,7 @@
 - Poměrně velké nároky na paměťové zdroje (při vysokém rozlišení a barevné hloubce velikost obrázku dosahuje i jednotek megabytů, v profesionální grafice se běžně operuje i s podklady o desítkách megabytů)
 - Zejména zvětšování obrázku je možné jen v omezené míře, neboť při větším zvětšení je na výsledném obrázku patrný rastr (viz obrázek)
 
-<img src="images/7PGF.jpg" style="display: block; margin-right:auto; margin-left:3%;  width: 25%; height: auto;">
+<img src="images/7PGF.jpg" style="display: block; margin-right:auto; margin-left:3%;  width: 50%; height: auto;">
 
 ## Výhody rastrové grafiky
 
