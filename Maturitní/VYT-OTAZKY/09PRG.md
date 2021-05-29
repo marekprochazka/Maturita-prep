@@ -60,8 +60,8 @@ except IndexError: # Vyjímka chytá pouze index error
     - ValueError – nesprávná hodnota
     - IndexError – chyba v indexu
 
-[Otázka 8](08HW.md)
+[Otázka 8](08PRG.md)
 
 [seznam otázek](seznam_otazek.md)
                     
-[Otázka 10](10HW.md)
+[Otázka 10](10PRG.md)

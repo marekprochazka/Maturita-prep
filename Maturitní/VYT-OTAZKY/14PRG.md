@@ -96,8 +96,8 @@ sauce:
 > https://www.itnetwork.cz/python/zaklady/python-tutorial-funkce-a-vyjimky <br>
 > https://naucse.python.cz/lessons/beginners/modules/ 
 
-[Otázka 13](13HW.md)
+[Otázka 13](13PRG.md)
 
 [seznam otázek](seznam_otazek.md)
                         
-[Otázka 15](15HW.md)
+[Otázka 15](15PRG.md)

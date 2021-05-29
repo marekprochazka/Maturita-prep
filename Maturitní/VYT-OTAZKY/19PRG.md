@@ -129,8 +129,8 @@
 - mají metody jako get() (pro získání hodnoty), set() (pro nastavení hodnoty)
 - při nastavování nastavíme hodnotu do proměnné a automaticky ji převezme i komponenta, ke které je proměnné přiřazena, tzn. komponenta a proměnná jsou obousměrně propojeny
 
-[Otázka 18](18HW.md)
+[Otázka 18](18PRG.md)
 
 [seznam otázek](seznam_otazek.md)
                         
-[Otázka 20](20HW.md)
+[Otázka 20](20WEB.md)

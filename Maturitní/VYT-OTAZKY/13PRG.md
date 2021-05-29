@@ -89,8 +89,8 @@ print(bool(nonEmpty1))
 - získání aktuálního času je cas = datetime.now(), obsahuje všechno den, měsíc, rok, hodinu…
 - zobrazení jednotlivých elementů je poté cas.hour, cas.minute, cas.second
 
-[Otázka 12](12HW.md)
+[Otázka 12](12PRG.md)
 
 [seznam otázek](seznam_otazek.md)
                         
-[Otázka 14](14HW.md)
+[Otázka 14](14PRG.md)

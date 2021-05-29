@@ -82,8 +82,8 @@
 - width, height – výška, šířka komponenty
 
 
-[Otázka 16](16HW.md)
+[Otázka 16](16PRG.md)
 
 [seznam otázek](seznam_otazek.md)
                         
-[Otázka 18](18HW.md)
+[Otázka 18](18PRG.md)

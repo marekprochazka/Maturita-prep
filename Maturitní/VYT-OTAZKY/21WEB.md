@@ -128,8 +128,8 @@
         - cover – obrázek se kratší stranou přizpůsobí prvku, nedeformuje se
 
 
-[Otázka 20](20HW.md)
+[Otázka 20](20WEB.md)
 
 [seznam otázek](seznam_otazek.md)
                                 
-[Otázka 22](21HW.md)
+[Otázka 22](22CAD.md)

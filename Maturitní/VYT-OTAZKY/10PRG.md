@@ -160,8 +160,8 @@ StopIteration
 
 - více o generátorech: https://naucse.python.cz/lessons/advanced/generators/
 
-[Otázka 9](09HW.md)
+[Otázka 9](09PRG.md)
 
 [seznam otázek](seznam_otazek.md)
                     
-[Otázka 11](11HW.md)
+[Otázka 11](11PRG.md)

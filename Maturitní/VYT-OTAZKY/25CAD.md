@@ -17,7 +17,7 @@
 * pokud je vyrobený úhel, např. u fidgetspinneru tak můžeme zaznamenat posun pomocí *Vytvořit záznam* 
 * popřípadě se dá záznam (animace) vytvářet v *Systémovém prostředí*, přes animace atd., ale to nevím
 
-[Otázka 24](24HW.md)
+[Otázka 24](24CAD.md)
 
 [seznam otázek](seznam_otazek.md)
                                 

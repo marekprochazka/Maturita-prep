@@ -114,8 +114,8 @@ show()
 - poznámka je umístěna na souřadnicích xytext
 - vlastnosti šipky se definují v arrowprops, shrink znamená zkrácení šipky v obou směrech, uvádí se jako des. číslo
 
-[Otázka 14](14HW.md)
+[Otázka 14](14PRG.md)
 
 [seznam otázek](seznam_otazek.md)
                         
-[Otázka 16](16HW.md)
+[Otázka 16](16PRG.md)

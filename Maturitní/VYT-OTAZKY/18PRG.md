@@ -130,8 +130,8 @@
 - při nastavování nastavíme hodnotu do proměnné a automaticky ji převezme i komponenta, ke které je proměnné přiřazena, tzn. komponenta a proměnná jsou obousměrně propojeny
 
 
-[Otázka 17](17HW.md)
+[Otázka 17](17PRG.md)
 
 [seznam otázek](seznam_otazek.md)
                         
-[Otázka 19](19HW.md)
+[Otázka 19](19PRG.md)

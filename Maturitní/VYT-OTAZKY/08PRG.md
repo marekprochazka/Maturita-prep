@@ -327,7 +327,7 @@ x *= 3 => x = x * 3
 # Platí pro všechny ostatní operátory
 ```
 
-[Otázka 7](07HW.md)
+[Otázka 7](07PGF.md)
 
 [seznam otázek](seznam_otazek.md)
                 

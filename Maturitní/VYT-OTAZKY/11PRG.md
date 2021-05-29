@@ -49,8 +49,8 @@ while True:
     - choice(sequence) – tato funkce vrací náhodný prvek ze seznamu, řetězce, n-tice, slovníku…
 
 
-[Otázka 10](10HW.md)
+[Otázka 10](10PRG.md)
 
 [seznam otázek](seznam_otazek.md)
                         
-[Otázka 12](12HW.md)
+[Otázka 12](12PRG.md)
