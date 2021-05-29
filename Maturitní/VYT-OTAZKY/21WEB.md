@@ -126,3 +126,10 @@
         - 100% 100% - obrázek se na pozadí zmenší/zvětší tak, aby se na šířku i výšku vešel jednou (obrázek se deformuje)
         - contain – obrázek se delší stranou přizpůsobí prvku, nedeformuje se
         - cover – obrázek se kratší stranou přizpůsobí prvku, nedeformuje se
+
+
+[Otázka 20](20HW.md)
+
+[seznam otázek](seznam_otazek.md)
+                                
+[Otázka 22](21HW.md)

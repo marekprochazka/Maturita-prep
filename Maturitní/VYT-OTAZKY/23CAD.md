@@ -63,3 +63,9 @@ Vizualizace dat:
 * modelování probíhá v nekonečném prostoru, do rozvržení se vloží pohled z daného výkresu
 * probíhá v rozvržení, funkce jako vložit pohled (výstřižek z modelu)
 * je možné si soubor vytisknout, nebo uložit v PDF atd.
+
+[Otázka 22](22HW.md)
+
+[seznam otázek](seznam_otazek.md)
+                                
+[Otázka 24](24HW.md)

@@ -95,3 +95,10 @@
 
 linky:
 https://docs.google.com/document/d/1Eutjnk2llzziIhUjZ6ddwVI5c35zgV5jEHSKNfppcbg/edit
+
+[Otázka 4](04HW.md)
+
+[seznam otázek](seznam_otazek.md)
+            
+[Otázka 6](06HW.md)
+            

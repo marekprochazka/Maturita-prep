@@ -326,3 +326,9 @@ x -= 3 => x = x - 3
 x *= 3 => x = x * 3 
 # Platí pro všechny ostatní operátory
 ```
+
+[Otázka 7](07HW.md)
+
+[seznam otázek](seznam_otazek.md)
+                
+[Otázka 9](09HW.md)

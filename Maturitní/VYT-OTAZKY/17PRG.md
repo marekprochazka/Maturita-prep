@@ -80,3 +80,10 @@
 - justify – zarovnání textu ve widgetu v případě, že je na víc řádků
 - anchor – způsob umístění textu či obrázku ve widgetu
 - width, height – výška, šířka komponenty
+
+
+[Otázka 16](16HW.md)
+
+[seznam otázek](seznam_otazek.md)
+                        
+[Otázka 18](18HW.md)

@@ -68,3 +68,10 @@
 
 
 ### Užitečný odkazy: http://www.ivt.mzf.cz/grafika/inkscape/
+
+[Otázka 5](05HW.md)
+
+[seznam otázek](seznam_otazek.md)
+            
+[Otázka 7](07HW.md)
+            

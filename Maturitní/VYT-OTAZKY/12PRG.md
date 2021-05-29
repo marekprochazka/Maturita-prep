@@ -126,3 +126,10 @@ True
 ```
 
 * práce s indexy je stejně uplatnitelná také u n-tice
+
+
+[Otázka 11](11HW.md)
+
+[seznam otázek](seznam_otazek.md)
+                        
+[Otázka 13](13HW.md)

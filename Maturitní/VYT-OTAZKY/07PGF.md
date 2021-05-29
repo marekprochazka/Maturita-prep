@@ -75,3 +75,9 @@
     - Je open-source: 
         - Otevřený software (anglicky open-source software nebo open software, zkratka OSS) je počítačový software s otevřeným zdrojovým kódem. Otevřenost zde znamená jak technickou dostupnost kódu, tak legální (ne)dostupnost – licenci software. Licence je velmi důležitá, jelikož specifikuje, jaká práva k otevřenému kódu získá a jak s nim může nakládat jeho uživatel. Některé licence (ku příkladu GNU) například dovolují uživatelům zdrojový kód upravovat a distribuovat (na rozdíl od proprietárního software).
     - Zastupuje photoshop převážne na operačních systémech založených na linuxu
+
+[Otázka 6](06HW.md)
+
+[seznam otázek](seznam_otazek.md)
+                
+[Otázka 8](08HW.md)

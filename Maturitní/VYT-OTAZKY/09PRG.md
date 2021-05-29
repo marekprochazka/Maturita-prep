@@ -59,3 +59,9 @@ except IndexError: # Vyjímka chytá pouze index error
     - TypeError – nesprávné použití datových typů - např. sčítání řetězce a čísla apod.
     - ValueError – nesprávná hodnota
     - IndexError – chyba v indexu
+
+[Otázka 8](08HW.md)
+
+[seznam otázek](seznam_otazek.md)
+                    
+[Otázka 10](10HW.md)

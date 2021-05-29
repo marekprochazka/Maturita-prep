@@ -47,3 +47,10 @@ while True:
     - randint(start, stop) – generuje náhodné číslo z rozmezí, které jí dovolíme, např. randint(0, 10) bude generovat čísla čísla 0 (včetně) až 10 (včetně), pokud nezadáme první hodnotu, tak začíná od 0
     - randrange(start, stop, step) – generuje náhodný prvek z rozmezí start až stop, když nezadáme start tak začíná na 0, např. randrange(1, 10) vrací čísla 1 až 9 (10 už ne), hodí se používat i step, to specifikuje o kolik se má posunout výběr, např. randrange(0, 10, 2) vrací čísla z hodnot 0, 2, 4, 6… až 9 (10 ne, tzn. max číslo bude 8)
     - choice(sequence) – tato funkce vrací náhodný prvek ze seznamu, řetězce, n-tice, slovníku…
+
+
+[Otázka 10](10HW.md)
+
+[seznam otázek](seznam_otazek.md)
+                        
+[Otázka 12](12HW.md)

@@ -176,3 +176,10 @@
 
 
 <img src="images/20WEB.png" style="display: block; margin-right:auto; margin-left:auto; margin-bottom:50px ;width: 80%; height: auto;">
+
+
+[Otázka 19](19HW.md)
+
+[seznam otázek](seznam_otazek.md)
+                        
+[Otázka 21](21HW.md)

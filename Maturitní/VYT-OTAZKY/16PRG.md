@@ -76,3 +76,10 @@ with open("soubor.txt", "r", encoding="utf-8") as f:
 - askopenasfilename() – stará se o otevření souboru, znovu se v něm dá nastavit výchozí přípony, které soubory chceme otevírat
 
 <img src="images/16PRG.png" style="display: block; margin-right:auto; margin-left:auto; margin-bottom:50px ;width: 100%; height: auto;">
+
+
+[Otázka 15](15HW.md)
+
+[seznam otázek](seznam_otazek.md)
+                        
+[Otázka 17](17HW.md)

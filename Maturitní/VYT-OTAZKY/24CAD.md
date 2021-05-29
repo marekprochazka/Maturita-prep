@@ -61,3 +61,9 @@
 * modelování probíhá v nekonečném prostoru
 * je možné si soubor exportovat v PDF, jako obrázek…
 * jeden z nejvyužívanějších exportů je do souboru STL pro 3D tiskárnu: Záložka Systémové prostředí -> 3D tisk -> exportovat STL; zde se také můžeme podívat na poměr velikosti objektu a podložek různých 3D tiskáren
+
+[Otázka 23](23HW.md)
+
+[seznam otázek](seznam_otazek.md)
+                                
+[Otázka 25](25HW.md)
