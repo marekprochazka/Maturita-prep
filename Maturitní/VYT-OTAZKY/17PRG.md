@@ -81,6 +81,7 @@
 - anchor – způsob umístění textu či obrázku ve widgetu
 - width, height – výška, šířka komponenty
 
+> Pro pochopení Tkinteru se také může hodit kapitola z mé DMP: https://docs.google.com/document/d/1sf80MSkH0AM2Wej8E0OdH9HGLEZw_GUk/edit#heading=h.2jxsxqh
 
 [Otázka 16](16PRG.md)
 
