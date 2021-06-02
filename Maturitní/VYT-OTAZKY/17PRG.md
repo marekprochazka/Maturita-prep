@@ -37,7 +37,7 @@
     - např. napis = Label(root, text = “Text v labelu“)
     - základem je do labelu přiřadit text, to je text který se vypíše, následně má label spoustu dalších možností co přidat, většina se týká úprav vzhledu textu, např. fg (barva textu), bg (barva pozadí textu), font (úprava fontu, velikost, styl)…
 - Button() – tlačítko, např. button = Button(root, text = “Klikni“, command = funkce_tlacitka)
-    - po stisknutí provede nějakou výše definovanou funkci, tu musíme uvádět bez závorek (pouze adresa fce => nesmí mít parametry), jinak by se spustila ihned po spuštění programu
+    - po stisknutí provede nějakou výše definovanou funkci, tu musíme uvádět bez závorek (pouze adresa fce => nesmí mít parametry), jinak by se spustila ihned po spuštění programu (pokud má funkce parametry, můžeme tuto nutnost obejetí za pomocí jednořádkové definice funkce 'lambda')
     - má spoustu dalších možností, jako width, height
 - Entry() – základní komponenta pro vstupy od uživatele, například řetězců, čísel…
     - umožňuje zadat jeden řádek textu, jeli potřeba více řádků, je potřeba použít widget Text()
