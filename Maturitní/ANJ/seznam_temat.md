@@ -3,7 +3,7 @@
 - Pracovní list 3: [Culture and the Arts. My Bookcase. My Favourite British or American Author](03.md) ✅
 - Pracovní list 4: [Housing](04.md) ✅
 - Pracovní list 5: [Shopping and Services](05.md) ✅
-- Pracovní list 6: [Food and Eating Out](06.md) ❌
+- Pracovní list 6: [Food and Eating Out](06.md) ✅
 - Pracovní list 7: [Health and Diseases. Healthy Way of Life](07.md) ❌
 - Pracovní list 8: [Travelling. Transport. Accommodation](08.md) ✅
 - Pracovní list 9: [Education. Our School. My Classroom. Learning English and Other Foreign Languages](09.md) ✅
