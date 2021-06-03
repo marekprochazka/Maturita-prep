@@ -129,7 +129,8 @@
 - mají metody jako get() (pro získání hodnoty), set() (pro nastavení hodnoty)
 - při nastavování nastavíme hodnotu do proměnné a automaticky ji převezme i komponenta, ke které je proměnné přiřazena, tzn. komponenta a proměnná jsou obousměrně propojeny
 
-
+> Pro pochopení Tkinteru se také může hodit kapitola z mé DMP: https://docs.google.com/document/d/1sf80MSkH0AM2Wej8E0OdH9HGLEZw_GUk/edit#heading=h.2jxsxqh
+        
 [Otázka 17](17PRG.md)
 
 [seznam otázek](seznam_otazek.md)
