@@ -15,6 +15,6 @@
 - Pracovní list 15: [The Czech Republic. Prague](15.md) ❌
 - Pracovní list 16: [Olomouc. Our Town. My Birthplace](16.md) ❌
 - Pracovní list 17: [The United Kingdom of Great Britain and Northern Ireland. The U.S.A.](17.md) ✅
-- Pracovní list 18: [The English-Speaking Countries (Commonwealth, Canada, Australia etc.)](18.md) ✅ (special task ❓)
+- Pracovní list 18: [The English-Speaking Countries (Commonwealth, Canada, Australia etc.)](18.md) ✅ 
 - Pracovní list 19: [Customs and Traditions. Holidays and Feastdays](19.md) ✅
 - Pracovní list 20: [Policy and Economics, Systems of Government, the European Union](20.md) ✅
