@@ -36,7 +36,7 @@ print(bool(nonEmpty1))
 >>> name = "Eric"
 >>> age = 128
 >>> "Hello, I'm %s. I'm %s years old" % (name, age)
-'Hello, I'm Eric. I'm 128 years old'
+"Hello, I'm Eric. I'm 128 years old"
 ```
     
 - format() - eště se používá, ale je horší jak formát f-string; základní formát je se složenými závorkami, kdyžtak můžeme i měnit pořadí zobrazení prvků podle indexu, protože v tom format(name, age) jsou ty proměnné uloženy jako n-tice
