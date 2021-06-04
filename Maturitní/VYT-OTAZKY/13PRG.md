@@ -56,10 +56,10 @@ print(bool(nonEmpty1))
 
 ## Speciální (escape) znaky:
 
-- \n – nový řádek
-- \t – tabulátor
-- \\ - zpětné lomítko (jedno)
-- uvozovky – pokud řetězec označujeme dvojitými uvozovkami, můžeme uvnitř něj použít jednoduché uvozovky a naopak
+- ```\n``` – nový řádek
+- ```\t``` – tabulátor
+- ```\\``` - zpětné lomítko (jedno)
+- ```uvozovky``` – pokud řetězec označujeme dvojitými uvozovkami, můžeme uvnitř něj použít jednoduché uvozovky a naopak
 
 ## Operace s řetězci
 
