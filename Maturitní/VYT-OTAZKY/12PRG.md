@@ -18,7 +18,7 @@ licha = tuple(range(1, 10, 2))
 suda = tuple(range(0, 10, 2))
 ```
 
-- N-tice je pevný datový typ. Ve chvíli, kdy N-tici vytvoříme, tak ji již nemůžeme upravovat
+- N-tice je pevný datový typ. **Ve chvíli, kdy N-tici vytvoříme, tak ji již nemůžeme upravovat!**
 
 - Možné operace:
     - n-tice lze spojovat (+), replikovat (*) a testovat, zda-li se určitá hodnota nachází uvnitř n-tice
