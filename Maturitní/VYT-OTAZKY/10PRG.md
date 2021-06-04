@@ -54,7 +54,6 @@ for x in adj:
   for y in fruits:
     print(x, y) # vždycky se napíše red apple, red banana, red cherry; big apple, big banana...
 ```
-* No a teď jsem u maturity asi v hajzlu protože fakt nevím co víc k tomu dodat
 
  
 ## funkce Enumerate 
