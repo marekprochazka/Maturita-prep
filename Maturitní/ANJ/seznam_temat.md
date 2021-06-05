@@ -11,7 +11,7 @@
 - Pracovní list 11: [Man and Society](11.md) ✅
 - Pracovní list 12: [The Course of the Year. Weather. Time](12.md) ✅
 - Pracovní list 13: [Nature. Environmental Protection](13.md) ✅
-- Pracovní list 14: [Means of Communication. Mass Media](14.md) ❌
+- Pracovní list 14: [Means of Communication. Mass Media](14.md) ✅
 - Pracovní list 15: [The Czech Republic. Prague](15.md) ❌
 - Pracovní list 16: [Olomouc. Our Town. My Birthplace](16.md) ❌
 - Pracovní list 17: [The United Kingdom of Great Britain and Northern Ireland. The U.S.A.](17.md) ✅
