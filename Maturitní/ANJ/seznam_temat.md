@@ -13,7 +13,7 @@
 - Pracovní list 13: [Nature. Environmental Protection](13.md) ✅
 - Pracovní list 14: [Means of Communication. Mass Media](14.md) ✅
 - Pracovní list 15: [The Czech Republic. Prague](15.md) ✅ (special task ❌)
-- Pracovní list 16: [Olomouc. Our Town. My Birthplace](16.md) ✅ (special task ❌)
+- Pracovní list 16: [Olomouc. Our Town. My Birthplace](16.md) ✅ 
 - Pracovní list 17: [The United Kingdom of Great Britain and Northern Ireland. The U.S.A.](17.md) ✅
 - Pracovní list 18: [The English-Speaking Countries (Commonwealth, Canada, Australia etc.)](18.md) ✅ 
 - Pracovní list 19: [Customs and Traditions. Holidays and Feastdays](19.md) ✅
