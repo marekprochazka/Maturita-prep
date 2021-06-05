@@ -34,4 +34,4 @@
 22. CAD - [metodika práce v CAD](22CAD.md) ✅ 
 23. CAD - [práce ve 2D](23CAD.md) ✅
 24. CAD - [práce ve 3D](24CAD.md) ✅
-25. CAD - [vizualizace dat](25CAD.md) ❓
+25. CAD - [vizualizace dat](25CAD.md) ✅
