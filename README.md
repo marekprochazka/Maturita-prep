@@ -30,3 +30,4 @@ Aktuální předměty (na žádost doplním):
 - Pokus se vybrat složku, která co nejvíce odpovídá tématu, které nahráváš
 - Pokud chceš, můžeš ještě ve složce vytvořit složku se svým jménem, do které to nahraješ
 
+:)
